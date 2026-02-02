@@ -14,5 +14,5 @@
 - Кастомные React хуки (useGame)
 
 Автор
-HTML Academy (htmlacademy.ru) - учебный проект курса React
+HTML Academy (htmlacademy.ru) - учебный проект курса React, 
 Беликова Юлия - реализация проекта
