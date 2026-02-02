@@ -11,6 +11,7 @@
 - React 19 - компонентный подход;
 - Webpack 5 - сборка проекта;
 - Babel - транспиляция JSX;
+- Кастомные React хуки (useGame)
 
 Автор
 HTML Academy (htmlacademy.ru) - учебный проект курса React
