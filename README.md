@@ -12,6 +12,7 @@
 - Webpack 5 - сборка проекта;
 - Babel - транспиляция JSX;
 - Кастомные React хуки (useGame)
+- React Router - маршрутизация страниц
 
 Автор
 HTML Academy (htmlacademy.ru) - учебный проект курса React, 
